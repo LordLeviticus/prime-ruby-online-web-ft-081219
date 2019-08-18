@@ -13,4 +13,4 @@ def prime?(number)
 end
 
 
-puts prime?(5)
+puts prime?(500)
